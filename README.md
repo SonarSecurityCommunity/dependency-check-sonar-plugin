@@ -1,4 +1,4 @@
-# Dependency-Check Plugin for SonarQube 7.x and 8.x
+# Dependency-Check Plugin for SonarQube 8.x and 9.x
 
 ![Build Status](https://github.com/dependency-check/dependency-check-sonar-plugin/workflows/build/badge.svg?branch=master)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e9cebd3112ec4252804bba68a5b44071)](https://www.codacy.com/gh/dependency-check/dependency-check-sonar-plugin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dependency-check/dependency-check-sonar-plugin&amp;utm_campaign=Badge_Grade)
@@ -8,9 +8,9 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=dependency-check_dependency-check-sonar-plugin&metric=coverage)](https://sonarcloud.io/dashboard?id=dependency-check_dependency-check-sonar-plugin)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=dependency-check_dependency-check-sonar-plugin&metric=security_rating)](https://sonarcloud.io/dashboard?id=dependency-check_dependency-check-sonar-plugin)
 
-Integrates [Dependency-Check][] reports into SonarQube v7.9 or higher.
+Integrates [Dependency-Check][] reports into SonarQube v8.9 or higher.
 
-The project will try to backport all code from master branch to last supported LTS. Please see the [SonarQube 6.x][] or [SonarQube 5.x][] branch for old supported version.
+The project will try to backport all code from master branch to last supported LTS. Please see the [SonarQube 6.x][] or [SonarQube 7.x][] branch for old supported version.
 
 ## About Dependency-Check
 
@@ -144,7 +144,7 @@ Permission to modify and redistribute is granted under the terms of the [LGPLv3]
 [lgplv3]: http://www.gnu.org/licenses/lgpl.txt
 [github]: https://github.com/dependency-check/dependency-check-sonar-plugin/releases
 [dependency-check]: https://www.owasp.org/index.php/OWASP_Dependency_Check
-[sonarqube 5.x]: https://github.com/dependency-check/dependency-check-sonar-plugin/tree/SonarQube_5.x
 [sonarqube 6.x]: https://github.com/dependency-check/dependency-check-sonar-plugin/tree/SonarQube_6.x
+[sonarqube 7.x]: https://github.com/dependency-check/dependency-check-sonar-plugin/tree/SonarQube_7.x
 [sonar-custom-plugin-example]: https://github.com/SonarSource/sonar-custom-plugin-example
 [security-hotspot]: https://docs.sonarqube.org/latest/user-guide/security-hotspots/
