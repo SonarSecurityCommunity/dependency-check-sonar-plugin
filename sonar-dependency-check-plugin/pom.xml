@@ -29,7 +29,7 @@
         <commons.lang3.version>3.12.0</commons.lang3.version>
         <!-- Test versions -->
         <junit.jupiter.version>5.7.2</junit.jupiter.version>
-        <mockito.version>3.10.0</mockito.version>
+        <mockito.version>3.11.2</mockito.version>
     </properties>
 
     <dependencies>
