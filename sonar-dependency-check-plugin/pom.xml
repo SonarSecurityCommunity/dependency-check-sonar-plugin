@@ -25,7 +25,7 @@
         <sonar.pluginName>Dependency-Check</sonar.pluginName>
         <sonar.pluginKey>dependencycheck</sonar.pluginKey>
         <jackson.version>2.11.3</jackson.version>
-        <spotbugs.version>4.2.3</spotbugs.version>
+        <spotbugs.version>4.3.0</spotbugs.version>
         <commons.lang3.version>3.12.0</commons.lang3.version>
         <!-- Test versions -->
         <junit.jupiter.version>5.7.2</junit.jupiter.version>
