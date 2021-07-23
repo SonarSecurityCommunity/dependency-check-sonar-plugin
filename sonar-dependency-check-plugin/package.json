@@ -18,7 +18,7 @@
     "react-router": "5.2.0",
     "react-transform-hmr": "1.0.4",
     "style-loader": "^2.0.0",
-    "webpack": "^5.37.1",
+    "webpack": "^5.46.0",
     "webpack-dev-server": "^3.11.2"
   },
   "scripts": {
